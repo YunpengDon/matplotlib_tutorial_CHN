@@ -6,3 +6,4 @@ Matplotlib官方教程的中文翻译版，持续施工中。
 |2021-12-26|[Basic_Usage.ipynb](https://github.com/YunpengDon/matplotlib_tutorial_CHN/blob/main/Basic_Usage.ipynb)|使用基础|[Basic Usage](https://matplotlib.org/stable/tutorials/introductory/usage.html)|
 |2021-12-31|[Pyplot_tutorial.ipynb](https://github.com/YunpengDon/matplotlib_tutorial_CHN/blob/main/Pyplot_tutorial.ipynb)|Pyplot教程|[Pyplot Tutorial](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)|
 |2022-01-03|[Image_tutorial.ipynb](https://github.com/YunpengDon/matplotlib_tutorial_CHN/blob/main/Image_tutorial.ipynb)|图像教程|[Image Tutorial](https://matplotlib.org/stable/tutorials/introductory/images.html)|
+|2022-01-06|[The_Lifecycle_of_a_Plot.ipynb](https://github.com/YunpengDon/matplotlib_tutorial_CHN/blob/main/The_Lifecycle_of_a_Plot.ipynb)|绘图的生命周期|[The Lifecycle of a Plot](https://matplotlib.org/stable/tutorials/introductory/lifecycle.html)|
